@@ -16,7 +16,7 @@ author :
   email : andresmoschini@gmail.com
   github : andresmoschini
   twitter : andresmoschini
-  feedburner : andresmoschini
+  feedburner : false
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : andresmoschini
+      short_name : 
     livefyre :
       site_id : 123
     intensedebate :
